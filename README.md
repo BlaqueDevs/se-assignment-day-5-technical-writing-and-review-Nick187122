@@ -1,5 +1,8 @@
-# SE-DAY5-Technical-Writing
-## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
+1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
+
+
+
+
 ## 2. What are some strategies to tailor your content to different audience types?
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
